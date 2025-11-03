@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Adepsee
 - 👀 I’m interested in SciFi
-- 🌱 I’m currently learning C#
-- ⚡ Most fun facts aren't funny
+- 🌱 I’m a student at University of Applied Sciences in Ansbach and currently learning unity and C#
 
 <!---
 Adepsee/Adepsee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
