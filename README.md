@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Adepsee
-- 👀 I’m interested in SciFi
 - 🌱 I’m a student at University of Applied Sciences in Ansbach and currently learn unity and C#
 - adepse.itch.io
 
